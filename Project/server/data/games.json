@@ -1,0 +1,26 @@
+{
+    "f2376361-c699-403f-a485-868c663dbd20": {
+        "title": "Satisfactory",
+        "category": "Building",
+        "maxLevel": "10",
+        "imageUrl": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526870/header.jpg?t=1718088881",
+        "summary": "Satisfactory is a first-person open-world factory building game with a dash of exploration and combat. Play alone or with friends, explore an alien planet, create multi-story factories, and enter conveyor belt heaven!",
+        "_id": "f2376361-c699-403f-a485-868c663dbd20"
+    },
+    "92e7b263-9e38-4139-89ee-f8a854c22fe7": {
+        "title": "EVE online",
+        "category": "Space Simulator",
+        "maxLevel": "10",
+        "imageUrl": "https://cdn2.unrealengine.com/eve-online-1920x1080-63abdd7114f4.png",
+        "summary": "EVE Online е компютърна масова ролева онлайн игра, разработена от компанията CCP Games.",
+        "_id": "92e7b263-9e38-4139-89ee-f8a854c22fe7"
+    },
+    "859437fd-c9f5-4ded-8650-e876e6442036": {
+        "title": "World of Warcraft",
+        "category": "MMO RPG",
+        "maxLevel": "11",
+        "imageUrl": "https://media.wired.com/photos/5926ecefcefba457b079b94d/master/w_2560%2Cc_limit/WW4.jpg",
+        "summary": "World of Warcraft е MMORPG, продукт на Blizzard Entertainment. Както показва и името, играта се развива в игровия свят от поредицата Warcraft. В края на 2010 и началото на 2011 г. играта има повече от 12 милиона активни потребители, а към месец август 2015 г. броят на активните потребители е 5,6 милиона.",
+        "_id": "859437fd-c9f5-4ded-8650-e876e6442036"
+    }
+}
